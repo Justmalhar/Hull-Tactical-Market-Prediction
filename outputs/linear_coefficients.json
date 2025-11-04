@@ -1,0 +1,542 @@
+{
+  "elasticnet": {
+    "tag": "elasticnet",
+    "intercept": 0.0002920943177482403,
+    "coefficients": [
+      {
+        "feature": "E1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E2",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E3",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E4",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E5",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E7",
+        "coefficient": -1.2242514153794854e-05
+      },
+      {
+        "feature": "E8",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E9",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E11",
+        "coefficient": -0.0007631345970317466
+      },
+      {
+        "feature": "E12",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E14",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E15",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E16",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E17",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E18",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E19",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E20",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "I2",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P2",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P3",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P4",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P5",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P6",
+        "coefficient": -0.00018678082946222685
+      },
+      {
+        "feature": "P7",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P8",
+        "coefficient": -2.8479460274001028e-05
+      },
+      {
+        "feature": "P9",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P11",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P12",
+        "coefficient": -0.00014494416907500501
+      },
+      {
+        "feature": "P13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S2",
+        "coefficient": -0.0003377877596191027
+      },
+      {
+        "feature": "S3",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S4",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S5",
+        "coefficient": 4.2283852932474786e-05
+      },
+      {
+        "feature": "S6",
+        "coefficient": 0.000288105737224481
+      },
+      {
+        "feature": "S7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S8",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S9",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S11",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S12",
+        "coefficient": 8.756450269838412e-05
+      },
+      {
+        "feature": "D1",
+        "coefficient": 0.0011309186338871568
+      },
+      {
+        "feature": "D2",
+        "coefficient": 0.000202183589143824
+      },
+      {
+        "feature": "D3",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "D4",
+        "coefficient": 0.00017723991271467073
+      },
+      {
+        "feature": "M2",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M4",
+        "coefficient": -0.0005913141595102744
+      },
+      {
+        "feature": "M5",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M8",
+        "coefficient": -0.0001198783425940191
+      },
+      {
+        "feature": "M9",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M11",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M12",
+        "coefficient": -0.00011298198690535962
+      },
+      {
+        "feature": "M13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M14",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M15",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M16",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M17",
+        "coefficient": 0.0004776619613189879
+      },
+      {
+        "feature": "M18",
+        "coefficient": -0.0
+      }
+    ]
+  },
+  "elasticnet_l1": {
+    "tag": "elasticnet_l1",
+    "intercept": 0.00046920287422835827,
+    "coefficients": [
+      {
+        "feature": "E1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E2",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E3",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E4",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E5",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E8",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E9",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E10",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E11",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E12",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E14",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E15",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E16",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E17",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E18",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "E19",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "E20",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "I2",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P2",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P3",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P4",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P5",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P8",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P9",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "P10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P11",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P12",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "P13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S2",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S3",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S4",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S5",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "S7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S8",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S9",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S10",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S11",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "S12",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "D1",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "D2",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "D3",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "D4",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M2",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M4",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M5",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M6",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M7",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M8",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M9",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M10",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M11",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M12",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M13",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M14",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M15",
+        "coefficient": -0.0
+      },
+      {
+        "feature": "M16",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M17",
+        "coefficient": 0.0
+      },
+      {
+        "feature": "M18",
+        "coefficient": -0.0
+      }
+    ]
+  }
+}
